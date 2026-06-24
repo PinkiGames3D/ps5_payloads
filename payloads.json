@@ -1,0 +1,113 @@
+{
+  "name": "PS5 Payloads Repo PinkiGames3D",
+  "payloads": [
+    {
+      "name": "CheatRunner",
+      "filename": "CheatRunner.elf",
+      "url": "https://github.com/PinkiGames3D/ps5_payloads/blob/master/CheatRunner.elf",
+      "source": "https://github.com/notmaj0r/CheatRunner/releases",
+      "description": "Lanzador web y gestor de trucos para consolas PS5 con jailbreak.",
+      "last_update": "12.06.2026",
+      "version": "v0.12"
+    },
+    {
+      "name": "BD-J_Unpatch",
+      "filename": "bdj_unpatch_1340.elf",
+      "url": "https://github.com/PinkiGames3D/ps5_payloads/blob/master/bdj_unpatch_1340.elf",
+      "source": "https://github.com/Gezine/BD-UN-JB/releases",
+      "description": "Desbloquea el lector de discos (BD-J) en PS5 liberadas hasta firmware 13.40.",
+      "last_update": "12.06.2026",
+      "version": "v13.40"
+    },
+    {
+      "name": "Elf-Arsenal",
+      "filename": "elf-arsenal.elf",
+      "url": "https://github.com/PinkiGames3D/ps5_payloads/blob/master/elf-arsenal.elf",
+      "source": "https://github.com/Gezine/BD-UN-JB/releases",
+      "description": "Suite todo en uno con múltiples payloads integrados (FTP, kstuff, dumper, DNS, parches, servidor web).",
+      "last_update": "12.06.2026",
+      "version": "v1.6.19"
+    },
+    {
+      "name": "Servidor FTP",
+      "filename": "ftpsrv-ps5-0.20.elf",
+      "url": "https://github.com/PinkiGames3D/ps5_payloads/blob/master/ftpsrv-ps5-0.20.elf",
+      "source": "https://github.com/ps5-payload-dev/ftpsrv/releases",
+      "description": "Servidor FTP básico que acepta conexiones en el puerto 2121.",
+      "last_update": "12.06.2026",
+      "version": "v0.20"
+    },
+    {
+      "name": "Game Compressor",
+      "filename": "game-compressor.elf",
+      "url": "https://github.com/PinkiGames3D/ps5_payloads/blob/master/game-compressor.elf",
+      "source": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases",
+      "description": "Compressor y conversor de Juegos para reducir el tamaño.",
+      "last_update": "19.06.2026",
+      "version": "v1.0.1"
+    },
+    {
+      "name": "Kstuff Lite",
+      "filename": "kstuff.elf",
+      "url": "https://github.com/PinkiGames3D/ps5_payloads/blob/master/kstuff.elf",
+      "source": "https://github.com/EchoStretch/kstuff-lite/releases",
+      "description": "Desbloqueador de juegos y apps, sin esto no juegas.",
+      "last_update": "12.06.2026",
+      "version": "v1.07"
+    },
+    {
+      "name": "nanoDNS",
+      "filename": "nanodns.elf",
+      "url": "https://github.com/PinkiGames3D/ps5_payloads/blob/master/nanodns.elf",
+      "source": "https://github.com/drakmor/nanoDNS/releases",
+      "description": "Servidor proxy DNS local que permite redirigir dominios mediante filtros y configuraciones personalizadas.",
+      "last_update": "12.06.2026",
+      "version": "v0.3"
+    },
+    {
+      "name": "NP Fake Signin",
+      "filename": "np-fake-signin-ps5.elf",
+      "url": "https://github.com/PinkiGames3D/ps5_payloads/blob/master/np-fake-signin-ps5.elf",
+      "source": "https://git.etawen.dev/earthonion/np-fake-signin/releases",
+      "description": "Simula el inicio de sesión en PSN para el usuario activo modificando registros y archivos del sistema.",
+      "last_update": "12.06.2026",
+      "version": "v1.3"
+    },
+    {
+      "name": "Payload Manager",
+      "filename": "pldmgr_v0.3.6.elf",
+      "url": "https://github.com/PinkiGames3D/ps5_payloads/blob/master/pldmgr_v0.3.6.elf",
+      "source": "https://github.com/itsPLK/ps5-payload-manager",
+      "description": "Una herramienta para PS5 multiusos.",
+      "last_update": "12.06.2026",
+      "version": "v3.0"
+    },
+    {
+      "name": "PS5 Debug NG",
+      "filename": "ps5debug-NG_v1.2.6-revision1.elf",
+      "url": "https://github.com/PinkiGames3D/ps5_payloads/blob/master/ps5debug-NG_v1.2.6-revision1.elf",
+      "source": "https://github.com/OpenSourcereR-dev/ps5debug-NG/releases",
+      "description": "Depurador para PS5 que permite inspeccionar y modificar procesos en ejecución.",
+      "last_update": "02.06.2026",
+      "version": "v1.2.6-revision1"
+    },
+    {
+      "name": "ShadowMount Plus",
+      "filename": "shadowmountplus.elf",
+      "url": "https://github.com/PinkiGames3D/ps5_payloads/blob/master/shadowmountplus.elf",
+      "source": "https://github.com/drakmor/ShadowMountPlus/releases",
+      "description": "Payload automatizado para montar e instalar copias de juegos de PS5 sin herramientas externas.",
+      "last_update": "12.06.2026",
+      "version": "v1.6 test15-fix2"
+    },
+    {
+      "name": "Webserv",
+      "filename": "websrv-ps5.elf",
+      "url": "https://github.com/PinkiGames3D/ps5_payloads/blob/master/websrv-ps5.elf",
+      "source": "https://github.com/ps5-payload-dev/websrv/releases",
+      "description": "Servidor web simple que acepta conexiones en el puerto 8080.",
+      "last_update": "12.06.2026",
+      "version": "v13.40"
+    }
+  ]
+}
